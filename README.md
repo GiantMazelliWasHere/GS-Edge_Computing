@@ -43,3 +43,6 @@ LCD:
 
 Link Thinkercad:
 https://www.tinkercad.com/things/kmAqoo2wNC6-gs-edge-computing/editel
+
+Link Video YouTube:
+https://www.youtube.com/watch?v=9W4W4TpeRwc
