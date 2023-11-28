@@ -1,5 +1,11 @@
 # GS-Edge_Computing
 
+Link Thinkercad:
+https://www.tinkercad.com/things/kmAqoo2wNC6-gs-edge-computing/editel
+
+Link Video YouTube:
+https://www.youtube.com/watch?v=9W4W4TpeRwc
+
 Descrição do Problema:
 
 Muitas vezes vamos em pronto socorros e hospitais e por falta de uma pré triagem pegamos uma fila enorme e ficamos esperando por muito tempo. Quando estamos apenas com um estado febril essa espera é algo suportável e que não fará muita diferença, mas quando estamos com uma febre de 38, ou até uma febre alta de 39/40 graus essa espera, não só se torna insuportável como podemos sofrer de alguns sintomas extras se esperarmos demais.
@@ -40,9 +46,3 @@ Resistor:
 
 LCD:
  Conecte a entrada gnd com uma saída negativa da protoboard e a vcc com uma saída positiva. A entrada ‘VO’ conecta-se com a perna do meio do potenciômetro. A entrada ‘RS’ conecta-se direto no arduino, a entrada ‘RW’ conecta-se com uma saída negativa da protoboard. As entradas ‘E’, ‘DB4’, ‘DB5’, ‘DB6’, ‘DB7’ conectamos diretamente no arduino. A primeira porta LED conectamos com o resistor e a segunda conectamos com uma saída negativa da protoboard. No código devemos passar todas as portas que usamos do arduino em ordem decrescente, ou seja da porta usada no RS até a porta usada no DB7.
-
-Link Thinkercad:
-https://www.tinkercad.com/things/kmAqoo2wNC6-gs-edge-computing/editel
-
-Link Video YouTube:
-https://www.youtube.com/watch?v=9W4W4TpeRwc
