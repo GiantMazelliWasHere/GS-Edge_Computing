@@ -1,5 +1,8 @@
 # GS-Edge_Computing
 
+- Eduardo Mazelli - 553236
+- Nathan da Silveira Uflacker - 553264
+
 Link Thinkercad:
 https://www.tinkercad.com/things/kmAqoo2wNC6-gs-edge-computing/editel
 
